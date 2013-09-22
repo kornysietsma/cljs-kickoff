@@ -24,6 +24,8 @@ planned:
 - source maps
 
 ## Usage
+Install locally (as this isn't on clojars!)
+```lein install```
 
 Create project:
 
